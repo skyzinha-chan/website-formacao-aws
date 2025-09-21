@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Status do Projeto" src="https://img.shields.io/badge/status-concluído-brightgreen">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-Ativo-blue">
-  <img alt="Licença" src="https://img.shields.io/github/license/skyzinha-chan/website-formacao-aws">
+  <img alt="Licença" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 Este é o repositório do código-fonte do meu site de portfólio pessoal, desenvolvido como parte da Formação AWS Cloud Foundations da DIO. O site apresenta minhas habilidades, experiências e projetos na área de Inteligência Artificial e Cloud Computing, servindo como um currículo dinâmico e interativo.
